@@ -2,7 +2,7 @@
 Trabalho de Linguagem de Programação 3 , utilizando servlets :
 
 
-1.Crie uma aplicação JAVA   Web ,  no  qual  deverá  ser  nomeada (lp3-seunome)	
+1.Crie uma aplicação JAVA   Web .
 
 2.Crie  um package(br.edu.ifms.model)  na  pasta src,  neste  pacote  crie uma  classe JAVA (deverá  ser  um  cadastro  que  você  deverá  escolher). Nesta classe deverão obrigatoriamente ser criados os atributos dos tipos e quantidades:
 -2-Integer
