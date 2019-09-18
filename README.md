@@ -2,7 +2,7 @@
 Trabalho de Linguagem de Programação 3 , utilizando servlets :
 
 
-1.Crieumaaplicação JAVA   Web   (usando   o   tutorial   de   criação disponível  na pasta  Tutoriais  no  BOX),  no  qual  deverá  ser  nomeada (lp3-seunome)	
+1.Crie uma aplicação JAVA   Web ,  no  qual  deverá  ser  nomeada (lp3-seunome)	
 
 2.Crie  um package(br.edu.ifms.model)  na  pasta src,  neste  pacote  crie uma  classe JAVA (deverá  ser  um  cadastro  que  você  deverá  escolher). Nesta classe deverão obrigatoriamente ser criados os atributos dos tipos e quantidades:
 -2-Integer
@@ -13,11 +13,11 @@ Trabalho de Linguagem de Programação 3 , utilizando servlets :
 
 Obs: não esquecer os métodos Getter e Setter.
 
-3.Baseado  na  classe  que  você  criou,  monte  um  formulário HTML,que permitirá  o  usuário  informar  os  dados  (não  necessita  validação  de campos)  e  após  digitar  os  dados  possa  enviar  os  valores  usando  o método Postpara um Servlet. Está página poderá ser HTMLou JSPe deverá ser criada na pasta WebContent.
+3.Baseado  na  classe  que  você  criou,  monte  um  formulário HTML,que permitirá  o  usuário  informar  os  dados  (não  necessita  validação  de campos)  e  após  digitar  os  dados  possa  enviar  os  valores  usando  o método Postpara um Servlet. Está página poderá ser HTML ou JSP e deverá ser criada na pasta WebContent.
 
 4.Crie um package(br.edu.ifms.controller) na pasta src, neste pacote crie um Servletque  receberá  os  parâmetros  enviados  pelo  formulário  de cadastro. Após receber os parâmetros, popule um objeto do tipo classe que você escolheu e adicione a um objeto tipo List (crie uma classe com a  função  de  um  banco  de  dados com  inserção  estática  de  pelo  menos dois objetos,  conforme exemplo    no    projeto    lp3    que    estamos desenvolvendo).
 
-O Servlettambém deverá ter um dispachador que irá enviar o requeste o response para uma página JSP que deverá listar os objetos cadastrados no banco de dados. 
+O Servlet também deverá ter um dispachador que irá enviar o requeste o response para uma página JSP que deverá listar os objetos cadastrados no banco de dados. 
 
 5.Os  dados  deverão  ser  listados  em  uma  tabela  na  página  JSP  e  nesta tabela os dados abaixo deverão ser formatados usando tagsJSTL:
 -atributo  Double 
